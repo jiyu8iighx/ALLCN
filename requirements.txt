@@ -1,1 +1,4 @@
+sphinxcontrib-serializinghtml
+sphinx-rtd-theme
+sphinxcontrib-jsmath
 sphinxcontrib-mermaid
