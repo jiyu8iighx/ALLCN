@@ -1,7 +1,7 @@
 定义的内容
 **************************
 
-W.I.P
+WIP
 
 本文要讨论的问题是：如果要写一个词典来尽可能不依赖词典以外条件地、精确地向读者说明词汇的含义，应该有哪些内容。
 
@@ -29,7 +29,26 @@ W.I.P
 
 这些与知识相关的这些心理活动往往也具有某种意义的组合性。其中主要的一类被称为「 `命题态度 Propositional Attitude <https://en.wikipedia.org/wiki/Propositional_attitude>`_ 」 [#]_ ，详情可参见各链接。另一些则包括 「 `语义记忆 Semantic Memory <https://en.wikipedia.org/wiki/Semantic_memory>`_ 」、想像（如「Inner Speech」）、 `知觉内容 <https://plato.stanford.edu/entries/perception-contents>`_ 等。
 
+.. 语句所表达的最为主要的含义就是知识。「断言」、「命题」、「真值」……这些用于刻画语句性质的词汇实际上都是以知识为中心的。
+
+.. 如果只讨论知识相关的语句，
 
 .. [#] 另可参见 `language-thought/#ReprTheoThou <https://plato.stanford.edu/entries/language-thought/#ReprTheoThou>`_ 与 `mental-representation/#Propositional <https://plato.stanford.edu/entries/mental-representation/#Propositional>`_
+
+
+.. 命题的理解
+.. -----------------------------------
+
+
+.. 真实与虚拟
+.. ^^^^^^^^^^^^^^^^^^^
+
+.. 真信念、注意、演算
+
+.. 断言的共通含义在于希望听者将这个命题加入自己的知识库（通常也就是真信念句子集）。
+
+.. 一个反事实的例子
+
+.. 语言设计者实际上不怎么关心这个
 
 
