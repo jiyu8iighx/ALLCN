@@ -23,7 +23,7 @@ WIP
 以上三个定义提供的区分度依序提高，但表述的模糊性、实验观察的难度也依序提高。
 对于一些逻辑研究，定义1可能足够了；而对于「骂人用语（脏话）」这样的与知识、真值没多大关系的语句，定义2则可能不再合适而需要定义3。
 
-如果希望进一步追问，含义的“本质”是什么，那么通常最好先了解语言哲学的各种含义理论对此问题的讨论。在后文的特定话题中，会适时展开介绍语言哲学成果。
+如果希望进一步追问，含义的“本质”是什么，那么通常最好先了解语言哲学的各种含义理论对此问题的讨论。可参见 `斯坦福哲学百科（SEP）：含义的理论 Theories of Meaning <https://zhuanlan.zhihu.com/p/567571516>`_ 。
 
 
 知识及其证成
@@ -34,58 +34,3 @@ WIP
 这些与知识相关的这些心理活动往往也具有某种意义的组合性。其中主要的一类被称为「 `命题态度 Propositional Attitude <https://en.wikipedia.org/wiki/Propositional_attitude>`_ 」 [#]_ ，详情可参见各链接。另一些则包括 「 `语义记忆 Semantic Memory <https://en.wikipedia.org/wiki/Semantic_memory>`_ 」、想像（如「Inner Speech」）、 `知觉内容 <https://plato.stanford.edu/entries/perception-contents>`_ 等。
 
 .. [#] 另可参见 `language-thought/#ReprTheoThou <https://plato.stanford.edu/entries/language-thought/#ReprTheoThou>`_ 与 `mental-representation/#Propositional <https://plato.stanford.edu/entries/mental-representation/#Propositional>`_
-
-
-真假判断的语言哲学
-----------------------
-
-在知识的各种相关现象中，真假的判断具有基本的地位，也就是说语句的其他含义会依赖于我们对语句的真假的判断。
-
-关于「「判断」这一语言现象所反映的语句的含义」，两种对立的哲学观点产生了不同的理论派系： :ref:`sem_real`
-
-
-含义的使用理论
-----------------------
-
-在此，笔者采用一个实用主义的立场，介绍一系列较主流的含义的理论。
-
-use-theory of meaning
-
-normative score-keeping
-
-speech act
-
-语义的形式模型
-----------------------
-
-各种逻辑形式
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-（要不回头这些都单开个条目得了。。。）
-
-命题演算、 :math:`\lambda` 演算、组合子逻辑
-
-真值表、模型
-
-推理主义 Inferentialism
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-
-指称主义 Denotionalism
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-descriptivist
-
-
-.. 真实与虚拟
-.. ^^^^^^^^^^^^^^^^^^^
-
-.. 真信念、注意、演算
-
-.. 断言的共通含义在于希望听者将这个命题加入自己的知识库（通常也就是真信念句子集）。
-
-.. 一个反事实的例子
-
-.. 语言设计者实际上不怎么关心这个
-
-
