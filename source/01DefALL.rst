@@ -134,7 +134,13 @@
 
 我们之所以希望赋予句子另一种表示，是希望借助这种表示来（令人或机器）更好地认识句子语义的组合性。 ``I saw a man with a telescope`` 这个句子可以表示为这样一个树 ``List[I, saw, a, man, with, a, telescope]`` ，但这样的表示显然并不能满足我们的认识需求，它仅比字符序列多提供一点点帮助（用程序语言术语来说，它只完成了「Tokenize」）。
 
-这里要强调的是：不可能脱离语义上的考虑而谈一种纯粹的“文法的单解析性”，否则那绝不是我们在乎的。
+这里要强调的是：不可能脱离语义上的考虑而谈一种纯粹的“文法的单解析性”，否则那绝不是我们在乎的。用生成语法理论的术语说就是：「什么是「 `Logical Form <https://en.wikipedia.org/wiki/Logical_form_(linguistics)>`_ 」」是一个至关重要的问题。
+
+然而，这并不意味着我们完全不能在不弄清楚这个问题的前提下进行逻辑语言设计。 `Toaq 语 <https://loglangs.wiki/Toaq>`_ 的作者在博文 `Logical Language Misconceptions <https://toaqlanguage.wordpress.com/2022/09/26/logical-language-misconceptions>`_ 中如此说道：
+
+	Depending on the theoretical framework, linguists may differ on how “early” the syntactic object is “sent off to the semantics module”, and whether scope is resolved post-syntactically or not (e.g. whether quantifier raising is syntactic or post-syntactic, if it exists at all — it does not in my analysis of Toaq).
+
+	\......I myself don’t find the monoparsing definition underwhelming (with or without monosemy), as it is challenging enough to get that part right.
 
 
 句法原子与语义原子间的同构
